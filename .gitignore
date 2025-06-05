@@ -1,0 +1,22 @@
+# .gitignore
+
+# Ignorar ambiente virtual
+venv/
+ENV/
+env/
+
+# Arquivos Python compilados
+*.pyc
+__pycache__/
+
+# Configuração local do sistema operacional
+*.swp
+.DS_Store
+
+# Banco SQLite de desenvolvimento
+db.sqlite3
+
+# Pastas de logs, caches e mesmo VSCode
+*.log
+.vscode/
+.idea/
