@@ -1,0 +1,507 @@
+[
+  {
+    "song": "Blinding Lights",
+    "artist": "The Weeknd",
+    "phrase": "I said, ooh, I'm blinded by the lights"
+  },
+  {
+    "song": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "phrase": "Mama, just killed a man"
+  },
+  {
+    "song": "Shape of You",
+    "artist": "Ed Sheeran",
+    "phrase": "I'm in love with the shape of you"
+  },
+  {
+    "song": "Billie Jean",
+    "artist": "Michael Jackson",
+    "phrase": "Billie Jean is not my lover"
+  },
+  {
+    "song": "Rolling in the Deep",
+    "artist": "Adele",
+    "phrase": "We could have had it all"
+  },
+  {
+    "song": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "phrase": "Don't believe me just watch"
+  },
+  {
+    "song": "Take on Me",
+    "artist": "a-ha",
+    "phrase": "Take on me, take me on"
+  },
+  {
+    "song": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "phrase": "She's got a smile that it seems to me"
+  },
+  {
+    "song": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "phrase": "Here we are now, entertain us"
+  },
+  {
+    "song": "Hotel California",
+    "artist": "Eagles",
+    "phrase": "Welcome to the Hotel California"
+  },
+  {
+    "song": "Imagine",
+    "artist": "John Lennon",
+    "phrase": "Imagine all the people living life in peace"
+  },
+  {
+    "song": "Despacito",
+    "artist": "Luis Fonsi ft. Daddy Yankee",
+    "phrase": "Despacito, quiero respirar tu cuello despacito"
+  },
+  {
+    "song": "Wonderwall",
+    "artist": "Oasis",
+    "phrase": "Because maybe, you're gonna be the one that saves me"
+  },
+  {
+    "song": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "phrase": "There's a lady who's sure all that glitters is gold"
+  },
+  {
+    "song": "Don't Stop Believin'",
+    "artist": "Journey",
+    "phrase": "Just a small town girl, living in a lonely world"
+  },
+  {
+    "song": "Yesterday",
+    "artist": "The Beatles",
+    "phrase": "Yesterday, all my troubles seemed so far away"
+  },
+  {
+    "song": "Thriller",
+    "artist": "Michael Jackson",
+    "phrase": "It's close to midnight and something evil's lurking in the dark"
+  },
+  {
+    "song": "Like a Rolling Stone",
+    "artist": "Bob Dylan",
+    "phrase": "How does it feel to be on your own, with no direction home"
+  },
+  {
+    "song": "Hey Jude",
+    "artist": "The Beatles",
+    "phrase": "Hey Jude, don't make it bad"
+  },
+  {
+    "song": "Poker Face",
+    "artist": "Lady Gaga",
+    "phrase": "Can't read my, can't read my, no he can't read my poker face"
+  },
+  {
+    "song": "Bad Guy",
+    "artist": "Billie Eilish",
+    "phrase": "I'm the bad guy, duh"
+  },
+  {
+    "song": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "phrase": "Tastes like strawberries on a summer evening"
+  },
+  {
+    "song": "Levitating",
+    "artist": "Dua Lipa",
+    "phrase": "If you wanna run away with me, I know a galaxy"
+  },
+  {
+    "song": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber",
+    "phrase": "I do the same thing I told you that I never would"
+  },
+  {
+    "song": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "phrase": "Well, good for you, I guess you moved on really easily"
+  },
+  {
+    "song": "Dance Monkey",
+    "artist": "Tones and I",
+    "phrase": "They say oh my god I see the way you shine"
+  },
+  {
+    "song": "Shallow",
+    "artist": "Lady Gaga & Bradley Cooper",
+    "phrase": "Tell me something, girl, are you happy in this modern world?"
+  },
+  {
+    "song": "Old Town Road",
+    "artist": "Lil Nas X ft. Billy Ray Cyrus",
+    "phrase": "I got the horses in the back"
+  },
+  {
+    "song": "Savage Love",
+    "artist": "Jawsh 685 & Jason Derulo",
+    "phrase": "If I woke up without ya, I don't know what I would do"
+  },
+  {
+    "song": "WAP",
+    "artist": "Cardi B ft. Megan Thee Stallion",
+    "phrase": "Bring a bucket and a mop for this WAP"
+  },
+  {
+    "song": "Mood",
+    "artist": "24kGoldn ft. Iann Dior",
+    "phrase": "Why you always in a mood?"
+  },
+  {
+    "song": "Blinding Lights",
+    "artist": "The Weeknd",
+    "phrase": "I said, ooh, I'm blinded by the lights"
+  },
+  {
+    "song": "Circles",
+    "artist": "Post Malone",
+    "phrase": "Seasons change and our love went cold"
+  },
+  {
+    "song": "Rockstar",
+    "artist": "DaBaby ft. Roddy Ricch",
+    "phrase": "I been a rockstar, I been flexin'"
+  },
+  {
+    "song": "Say So",
+    "artist": "Doja Cat",
+    "phrase": "Why don't you say so? It's been a while since I've been out"
+  },
+  {
+    "song": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "phrase": "If you don't wanna see me dancing with somebody"
+  },
+  {
+    "song": "Physical",
+    "artist": "Dua Lipa",
+    "phrase": "Common love isn't for us, we created something phenomenal"
+  },
+  {
+    "song": "Break My Heart",
+    "artist": "Dua Lipa",
+    "phrase": "I should've stayed at home"
+  },
+  {
+    "song": "Adore You",
+    "artist": "Harry Styles",
+    "phrase": "Walk in your rainbow paradise"
+  },
+  {
+    "song": "Intentions",
+    "artist": "Justin Bieber ft. Quavo",
+    "phrase": "Picture perfect, you don't need no filter"
+  },
+  {
+    "song": "Yummy",
+    "artist": "Justin Bieber",
+    "phrase": "Yeah, you got that yummy-yum"
+  },
+  {
+    "song": "Memories",
+    "artist": "Maroon 5",
+    "phrase": "Here's to the ones that we got"
+  },
+  {
+    "song": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "phrase": "I'm going under and this time I fear there's no one to save me"
+  },
+  {
+    "song": "Everything I Wanted",
+    "artist": "Billie Eilish",
+    "phrase": "I had a dream I got everything I wanted"
+  },
+  {
+    "song": "Before You Go",
+    "artist": "Lewis Capaldi",
+    "phrase": "So, before you go, was there something I could've said?"
+  },
+  {
+    "song": "Dynamite",
+    "artist": "BTS",
+    "phrase": "Cause I, I, I'm in the stars tonight"
+  },
+  {
+    "song": "Savage",
+    "artist": "Megan Thee Stallion",
+    "phrase": "I'm a savage, classy, bougie, ratchet"
+  },
+  {
+    "song": "Life Is Good",
+    "artist": "Future ft. Drake",
+    "phrase": "Life is good, life is good, uh"
+  },
+  {
+    "song": "The Box",
+    "artist": "Roddy Ricch",
+    "phrase": "Pullin' out the coupe at the lot"
+  },
+  {
+    "song": "Toosie Slide",
+    "artist": "Drake",
+    "phrase": "Black leather gloves, no sequins, buttons on my coat"
+  },
+  {
+    "song": "Whats Poppin",
+    "artist": "Jack Harlow",
+    "phrase": "What's poppin? Brand new whip just hopped in"
+  },
+  {
+    "song": "Go Crazy",
+    "artist": "Chris Brown & Young Thug",
+    "phrase": "Go crazy, go stupid, go dumb"
+  },
+  {
+    "song": "Laugh Now Cry Later",
+    "artist": "Drake ft. Lil Durk",
+    "phrase": "I'm too lit, I can't argue with you"
+  },
+  {
+    "song": "Popstar",
+    "artist": "DJ Khaled ft. Drake",
+    "phrase": "I'm a popstar, not a doctor"
+  },
+  {
+    "song": "For The Night",
+    "artist": "Pop Smoke ft. Lil Baby & DaBaby",
+    "phrase": "She like the way that I dance, she like the way that I move"
+  },
+  {
+    "song": "Holy",
+    "artist": "Justin Bieber ft. Chance the Rapper",
+    "phrase": "I hear a lot about sinners, don't think that I'll be a saint"
+  },
+  {
+    "song": "Lonely",
+    "artist": "Justin Bieber & Benny Blanco",
+    "phrase": "I'm so lonely, I'm so lonely"
+  },
+  {
+    "song": "Montero",
+    "artist": "Lil Nas X",
+    "phrase": "I wanna sell what you're buying"
+  },
+  {
+    "song": "Kiss Me More",
+    "artist": "Doja Cat ft. SZA",
+    "phrase": "We hug and yes, we make love"
+  },
+  {
+    "song": "Save Your Tears",
+    "artist": "The Weeknd",
+    "phrase": "I saw you dancing in a crowded room"
+  },
+  {
+    "song": "Peaches",
+    "artist": "Justin Bieber ft. Daniel Caesar & Giveon",
+    "phrase": "I got my peaches out in Georgia"
+  },
+  {
+    "song": "Leave The Door Open",
+    "artist": "Silk Sonic",
+    "phrase": "Say baby, say baby, say baby"
+  },
+  {
+    "song": "Up",
+    "artist": "Cardi B",
+    "phrase": "If it's up, then it's stuck"
+  },
+  {
+    "song": "Heartbreak Anniversary",
+    "artist": "Giveon",
+    "phrase": "Balloons are deflated, guess they look lifeless like me"
+  },
+  {
+    "song": "Astronaut In The Ocean",
+    "artist": "Masked Wolf",
+    "phrase": "What you know about rollin' down in the deep?"
+  },
+  {
+    "song": "Stay",
+    "artist": "Post Malone",
+    "phrase": "I do the same thing I told you that I never would"
+  },
+  {
+    "song": "Better Together",
+    "artist": "Luke Combs",
+    "phrase": "I know I'm better when I'm with you"
+  },
+  {
+    "song": "Forever After All",
+    "artist": "Luke Combs",
+    "phrase": "They say nothing lasts forever"
+  },
+  {
+    "song": "The Good Ones",
+    "artist": "Gabby Barrett",
+    "phrase": "He's the kind of guy you take home to mama"
+  },
+  {
+    "song": "Famous Friends",
+    "artist": "Chris Young & Kane Brown",
+    "phrase": "We were always getting into something"
+  },
+  {
+    "song": "Starting Over",
+    "artist": "Chris Stapleton",
+    "phrase": "This might not be an easy time"
+  },
+  {
+    "song": "Hell of a View",
+    "artist": "Eric Church",
+    "phrase": "Ain't it a hell of a view?"
+  },
+  {
+    "song": "One Too Many",
+    "artist": "Keith Urban & P!nk",
+    "phrase": "I know I've had one too many"
+  },
+  {
+    "song": "Chasing After You",
+    "artist": "Ryan Hurd & Maren Morris",
+    "phrase": "I don't know why I keep chasing after you"
+  },
+  {
+    "song": "Gone",
+    "artist": "Dierks Bentley",
+    "phrase": "I'm gone, gone, gone like a freight train"
+  },
+  {
+    "song": "Memory I Don't Mess With",
+    "artist": "Lee Brice",
+    "phrase": "I don't drink whiskey anymore"
+  },
+  {
+    "song": "Next Girl",
+    "artist": "Carly Pearce",
+    "phrase": "You'll love her till you make her cry"
+  },
+  {
+    "song": "Single Saturday Night",
+    "artist": "Cole Swindell",
+    "phrase": "It was a single Saturday night"
+  },
+  {
+    "song": "I Hope",
+    "artist": "Gabby Barrett",
+    "phrase": "I hope she's wilder than the wind"
+  },
+  {
+    "song": "The Bones",
+    "artist": "Maren Morris",
+    "phrase": "The house don't fall when the bones are good"
+  },
+  {
+    "song": "More Hearts Than Mine",
+    "artist": "Ingrid Andress",
+    "phrase": "If we break up, I'll be fine"
+  },
+  {
+    "song": "Somebody Like That",
+    "artist": "Tenille Arts",
+    "phrase": "I wanna find somebody like that"
+  },
+  {
+    "song": "Happy Anywhere",
+    "artist": "Blake Shelton ft. Gwen Stefani",
+    "phrase": "I could be happy anywhere"
+  },
+  {
+    "song": "One Margarita",
+    "artist": "Luke Bryan",
+    "phrase": "One margarita, two margarita, three margarita"
+  },
+  {
+    "song": "I Hope You're Happy Now",
+    "artist": "Carly Pearce & Lee Brice",
+    "phrase": "I hope you're happy now"
+  },
+  {
+    "song": "Does To Me",
+    "artist": "Luke Combs ft. Eric Church",
+    "phrase": "It might not mean nothing to you"
+  },
+  {
+    "song": "Beer Can't Fix",
+    "artist": "Thomas Rhett ft. Jon Pardi",
+    "phrase": "A beer can't fix, a beer can't fix"
+  },
+  {
+    "song": "Nobody But You",
+    "artist": "Blake Shelton ft. Gwen Stefani",
+    "phrase": "I don't wanna love nobody but you"
+  },
+  {
+    "song": "Every Little Thing",
+    "artist": "Russell Dickerson",
+    "phrase": "Every little thing you do"
+  },
+  {
+    "song": "Got What I Got",
+    "artist": "Jason Aldean",
+    "phrase": "I got what I got and I don't miss what I had"
+  },
+  {
+    "song": "One Big Country Song",
+    "artist": "Lindsay Ell",
+    "phrase": "We're all just one big country song"
+  },
+  {
+    "song": "I Love My Country",
+    "artist": "Florida Georgia Line",
+    "phrase": "I love my country, I love my truck"
+  },
+  {
+    "song": "Hard To Forget",
+    "artist": "Sam Hunt",
+    "phrase": "It's hard to forget someone like you"
+  },
+  {
+    "song": "Does To Me",
+    "artist": "Luke Combs ft. Eric Church",
+    "phrase": "It might not mean nothing to you"
+  },
+  {
+    "song": "Beer Can't Fix",
+    "artist": "Thomas Rhett ft. Jon Pardi",
+    "phrase": "A beer can't fix, a beer can't fix"
+  },
+  {
+    "song": "Nobody But You",
+    "artist": "Blake Shelton ft. Gwen Stefani",
+    "phrase": "I don't wanna love nobody but you"
+  },
+  {
+    "song": "Every Little Thing",
+    "artist": "Russell Dickerson",
+    "phrase": "Every little thing you do"
+  },
+  {
+    "song": "Got What I Got",
+    "artist": "Jason Aldean",
+    "phrase": "I got what I got and I don't miss what I had"
+  },
+  {
+    "song": "One Big Country Song",
+    "artist": "Lindsay Ell",
+    "phrase": "We're all just one big country song"
+  },
+  {
+    "song": "I Love My Country",
+    "artist": "Florida Georgia Line",
+    "phrase": "I love my country, I love my truck"
+  },
+  {
+    "song": "Hard To Forget",
+    "artist": "Sam Hunt",
+    "phrase": "It's hard to forget someone like you"
+  }
+]
