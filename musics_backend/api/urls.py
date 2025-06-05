@@ -1,6 +1,9 @@
+# movies_backend/api/urls.py
+
 from django.urls import path
-from .views import random_cards
+from . import views
 
 urlpatterns = [
-    path('cards/random/', random_cards, name='random-cards'),
+    path('cards/random/', views.random_cards, name='random_cards'),
+    # outras rotas do seu app "api"...
 ]
