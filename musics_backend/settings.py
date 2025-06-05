@@ -1,16 +1,24 @@
 # settings.py
 
 from pathlib import Path
+import os
 
 # Base diretório do projeto
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Segurança
 SECRET_KEY = 'django-insecure-ynv-ak-%g4+^8@7o(kya_9u+-(1p3f2nq1m$-kb4vahdi49b03'
-DEBUG = True
+DEBUG = os.getenv("DJANGO_DEBUG", "False") == "True"
 
 # Configuração de hosts permitidos
-ALLOWED_HOSTS = ['*']
+if DEBUG:
+    ALLOWED_HOSTS = ["*"]
+else:
+    ALLOWED_HOSTS = os.getenv("DJANGO_ALLOWED_HOSTS", "").split(",")
+    # Se não definir DJANGO_ALLOWED_HOSTS, ficaria ALLOWED_HOSTS = [''], 
+    # então pode usar algo como:
+    # ALLOWED_HOSTS = os.getenv("DJANGO_ALLOWED_HOSTS", "seuapp.vercel.app").split(",")
+
 
 # Aplicações instaladas
 INSTALLED_APPS = [
@@ -21,7 +29,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'movies_backend.api',  # Seu app
+    'musics_backend.api',  # Seu app
     'corsheaders',  # Necessário para CORS
 ]
 
@@ -46,7 +54,7 @@ CORS_ALLOW_ALL_ORIGINS = True  # Permitir todas as origens (desenvolvimento)
 # ]
 
 # Resto da configuração
-ROOT_URLCONF = 'movies_backend.urls'
+ROOT_URLCONF = 'musics_backend.urls'
 
 # Configuração de templates
 TEMPLATES = [
@@ -64,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'movies_backend.wsgi.application'
+WSGI_APPLICATION = 'musics_backend.wsgi.application'
 
 # Configuração de banco de dados (SQLite para desenvolvimento)
 DATABASES = {

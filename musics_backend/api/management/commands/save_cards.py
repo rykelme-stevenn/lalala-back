@@ -1,7 +1,7 @@
 import os
 import json
 from django.core.management.base import BaseCommand
-from movies_backend.api.models import Card
+from musics_backend.api.models import Card
 
 class Command(BaseCommand):
     help = 'Importa cards do arquivo JSON'
